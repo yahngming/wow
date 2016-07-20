@@ -1,8 +1,6 @@
 # SmartSwitch
 
-A minimal smart switch features:
-
-* No web interface, a simple HTTP request triggers the relay.
-* Support browser. Bookmark the switch LAN ip to quickly access it.
-* Support Tasker. This adds infinite possibilities to automate the switch.
-* Support Pebble watchapp. The url request is sent upon shake.
+* Minimal interface, no frontend, a simple HTTP request triggers the relay.
+* Browser support. Bookmark the switch's LAN ip to quickly access it.
+* Tasker support. This adds infinite possibilities to automate the switch.
+* Pebble support. The sample app.js is a cloudpebble watchapp demonstration.
